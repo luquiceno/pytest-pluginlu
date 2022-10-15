@@ -1,0 +1,10 @@
+site_name: pytest-pluginlu
+site_description: new reusable pytest plugin
+site_author: Lucia Mejia
+
+theme: readthedocs
+
+repo_url: https://github.com/luquiceno/pytest-pluginlu
+
+pages:
+- Home: index.md
